@@ -1,7 +1,7 @@
 # ConvoSentinel
 
 ## SEConvo Data
-The **SEConvo** data is available for download. See `SEConvo/README.md` for data details.
+The **SEConvo** data is available for download [here](https://zenodo.org/records/12170260). See `SEConvo/README.md` for data details.
 
 ## To Run ConvoSentinel
 1. Recommended to use `python 3.10`.
