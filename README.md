@@ -1,5 +1,7 @@
 # ConvoSentinel
 
+### This is the official repository of the EMNLP 2024 paper: [Defending Against Social Engineering Attacks in the Age of LLMs](https://arxiv.org/pdf/2406.12263).
+
 ## SEConvo Data
 The **SEConvo** data is available for download [here](https://zenodo.org/records/12170260). See `SEConvo/README.md` for data details.
 
@@ -20,3 +22,14 @@ The **SEConvo** data is available for download [here](https://zenodo.org/records
     - Message-level SE predictions: `outputs/message_se_preds.json`
     - Conversation-level SE predictions: `outputs/conv_se_preds.json`
 6. By default, the script runs with `cuda:0`. Modify this in the script if necessary.
+
+
+### If you find our method useful, please cite us:
+```
+@article{ai2024defending,
+  title={Defending Against Social Engineering Attacks in the Age of LLMs},
+  author={Ai, Lin and Kumarage, Tharindu and Bhattacharjee, Amrita and Liu, Zizhou and Hui, Zheng and Davinroy, Michael and Cook, James and Cassani, Laura and Trapeznikov, Kirill and Kirchner, Matthias and others},
+  journal={arXiv preprint arXiv:2406.12263},
+  year={2024}
+}
+```
