@@ -1,6 +1,6 @@
 # ConvoSentinel
 
-### This is the official repository of the EMNLP 2024 paper: [Defending Against Social Engineering Attacks in the Age of LLMs](https://arxiv.org/pdf/2406.12263).
+### This is the official repository of the EMNLP 2024 paper: [Defending Against Social Engineering Attacks in the Age of LLMs](https://aclanthology.org/2024.emnlp-main.716/).
 
 ## SEConvo Data
 The **SEConvo** data is available for download [here](https://zenodo.org/records/12170260). See `SEConvo/README.md` for data details.
